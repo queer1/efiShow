@@ -9,7 +9,7 @@ About  : this is our class project on Embedded System course, PKU, 2013
 
 Compile : just "make" is ok 
 
-Usage  : 1. just type "efiShow.efi" in the shell, it will run 
+Usage  : 1. just type "efiShow.efi" in the shell, it will run
          2. bmp files must be put in "\pages" and must be named x.bmp (x=1,2,3 ...)
          3. bmp files must in 24-bit or 32-bit format 
  
